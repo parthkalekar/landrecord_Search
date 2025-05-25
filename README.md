@@ -15,7 +15,16 @@ A Node.js and Express-based backend service for searching and retrieving land re
 
 ## 📁 Project Structure
 
-
+landrecord_Search/
+├── config/ # Configuration files (e.g., database connection)
+├── controllers/ # Request handlers and business logic
+├── models/ # Database schemas/models
+├── routes/ # API route definitions
+├── utils/ # Utility/helper functions
+├── index.js # App entry point
+├── sample.env # Sample environment variables file
+├── package.json # Project metadata and dependencies
+└── README.md
 
 
 
