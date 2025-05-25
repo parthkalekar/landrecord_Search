@@ -34,7 +34,7 @@ landrecord_Search/
 
 - Node.js (v14 or above)
 - npm
-- MongoDB instance (local or cloud)
+- MySQL instance (local or cloud)
 
 ## 🛠️ Setup Instructions
 
