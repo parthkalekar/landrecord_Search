@@ -67,10 +67,11 @@ landrecord_Search/
  - GET /search
    
  - Search land records by any combination of query parameters:
-        - parcelId (string)
-        - plotNumber (string)
-        - ownerName (string)
-        - location (string)
+   - parcelId (string)
+   - plotNumber (string)
+   - ownerName (string)
+   - location (string)
+
  - Sample requests
     ```bash
     GET http://localhost:5600/search?ownerName=John
